@@ -1,4 +1,2 @@
 ./crede
-mlops/devops/Jenkinsfile
-mlops/devops/__pycache__/
-mlops/devops/.coverage
+tensorflow/.ipynb_checkpoints/
